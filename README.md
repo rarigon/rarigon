@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rafael Rigon B. (@rarigon).
+- 👋 Hi, I’m Rafael R. Bortolon (@rarigon).
 - 👀 I’m interested in urbanism, infrastructure and welfare state.
-- 🌱 I’m currently learning data science, AI and Big Data.
+- 🌱 I’m always learning about data science, AI and Big Data.
 - 💞️ I’m looking to collaborate on public policies for development, infrastructure and social well being.
 - 📫 How to reach me ...
 
